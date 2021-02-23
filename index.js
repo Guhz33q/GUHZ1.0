@@ -49,7 +49,7 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 const config = {
     XBOT: 'GUHZ1.0', 
     instagram: 'Não tem puto', 
-    nomer: 'wa.me/5591985700356 se mandar trava vai pro suportr,
+    nomer: 'wa.me/5591985700356 se mandar trava vai pro suporte'
     youtube: 'https://youtube.com/channel/UCi5VBuX2umdpyhJuIh0dvVQ', 
     whatsapp: 'Comming soon', 
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
