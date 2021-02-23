@@ -50,7 +50,7 @@ const config = {
     XBOT: 'GUHZ1.0', 
     instagram: 'Não tem puto', 
     nomer: 'wa.me/5591985700356 se mandar trava vai pro suporte'
-    youtube: 'n',
+    youtube: 'https://youtube.com/channel/UC2a7N-vZ5xrDF-0nfcaUspw',
     whatsapp: 'Comming soon', 
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
